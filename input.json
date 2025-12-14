@@ -1,0 +1,104 @@
+[
+  {
+    "id": "6",
+    "data": "2024-02-13",
+    "informazioni_base": {
+      "nome_vino": "Roero Arneis",
+      "produttore": "Giovanni Almondo",
+      "tipologia": "vino fermo",
+      "Denominazione": "Italia, Piemonte, Roero DOCG, Arneis",
+      "Categoria": "",
+      "colore": "bianco",
+      "anno": "2021",
+      "vitigni": [
+        {
+          "nome": "Arneis",
+          "percentuale": 100
+        }
+      ]
+    },
+    "scheda_analitico_descrittiva": {
+      "esame_visivo": {
+        "limpidezza": "cristallino",
+        "colore_bianchi": "dorato",
+        "colore_rose": "",
+        "colore_rossi": "",
+        "consistenza": "consistente",
+        "numero_catenelle": "",
+        "velocita_ascesa": "",
+        "grana_bollicine": "",
+        "persistenza_bollicine": "",
+        "note_visive": ""
+      },
+      "esame_olfattivo": {
+        "intensita_olfattiva": "intenso",
+        "descrittori": {
+          "aromatico": [],
+          "floreale": [
+            "ginestra"
+          ],
+          "speziato": ["pepe bianco"],
+          "varietale": [],
+          "vegetale": [
+            "timo"
+          ],
+          "pasticceria/panificazione": [],
+          "fruttato": [
+            "cedro",
+            "pesca bianca"
+          ],
+          "fragrante": [],
+          "empireumatico": [],
+          "altro": [
+            "pietra focaia"
+          ]
+        },
+        "complessita_olfattiva": "complesso",
+        "qualita_olfattiva": "ottimo",
+        "note_olfattive": ""
+      },
+      "esame_gusto_olfattivo": {
+        "dolcezza": "secco",
+        "acidita": "fresco",
+        "alcolicita": "caldo",
+        "tannicita": "",
+        "rotondita": "morbido",
+        "sapidita": "saporito",
+        "effervescenza": "",
+        "intensita_gusto": "intenso",
+        "struttura": "di corpo pieno",
+        "equilibrio": "equilibrato",
+        "persistenza": "persistente",
+        "qualita_gusto_olfattiva": "ottimo",
+        "note_gusto_olfattive": ""
+      },
+      "considerazioni_finali": {
+        "stato_evolutivo": "pronto",
+        "armonia": "armonico",
+        "qualita_complessiva": "ottimo",
+        "note": ""
+      }
+    },
+    "scheda_valutazione_punti": {
+      "esame_visivo_10": {
+        "aspetto": "9"
+      },
+      "esame_olfattivo_30": {
+        "intensita": "9",
+        "purezza_eleganza": "8",
+        "complessita_attrattiva": "9"
+      },
+      "esame_gusto_olfattivo_40": {
+        "intensita_struttura": "9",
+        "equilibrio_punti": "9",
+        "espressivita_eleganza": "8",
+        "persistenza_attrattiva": "9"
+      },
+      "valutazioni_considerazioni_finali_20": {
+        "armonia_complessiva": "9",
+        "qualita_carattere_complessivo": "9"
+      },
+      "punteggio_totale": "88"
+    }
+  }
+]

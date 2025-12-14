@@ -1,0 +1,18 @@
+# Requirements per il fine-tuning con LoRA
+# Installazione: pip install -r requirements.txt
+# NOTA: Installa prima numpy>=2.0, poi pandas, poi le altre librerie
+
+numpy>=2.0
+pandas
+torch
+transformers==4.44.2
+peft==0.12.0
+accelerate==0.33.0
+datasets
+bitsandbytes
+sentencepiece
+fsspec
+matplotlib
+scikit-learn
+plotly
+
